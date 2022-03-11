@@ -9,7 +9,8 @@ This is the code for the Vue.js [tutorial on Scotch.io](https://scotch.io/tutori
 3. Visit [http://localhost:8080](http://localhost:8080).
 
 ## Dockerize
-1. change conenction setting on backend/db.js
-2. run docker build on main directory
+1. import schema from .sql file on main directory
+2. change conenction setting on backend/db.js
+3. run docker build on main directory
 
  
